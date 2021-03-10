@@ -1,0 +1,12 @@
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\bin\Debug\netcoreapp3.1\01_HelloSoftUni.exe
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\bin\Debug\netcoreapp3.1\01_HelloSoftUni.deps.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\bin\Debug\netcoreapp3.1\01_HelloSoftUni.runtimeconfig.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\bin\Debug\netcoreapp3.1\01_HelloSoftUni.runtimeconfig.dev.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\bin\Debug\netcoreapp3.1\01_HelloSoftUni.dll
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\bin\Debug\netcoreapp3.1\01_HelloSoftUni.pdb
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\obj\Debug\netcoreapp3.1\01_HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\obj\Debug\netcoreapp3.1\01_HelloSoftUni.AssemblyInfo.cs
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\obj\Debug\netcoreapp3.1\01_HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\obj\Debug\netcoreapp3.1\01_HelloSoftUni.dll
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\obj\Debug\netcoreapp3.1\01_HelloSoftUni.pdb
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\01_HelloSoftUni\obj\Debug\netcoreapp3.1\01_HelloSoftUni.genruntimeconfig.cache
