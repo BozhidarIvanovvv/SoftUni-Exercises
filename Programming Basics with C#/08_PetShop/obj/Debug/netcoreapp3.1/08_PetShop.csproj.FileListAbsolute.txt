@@ -1,0 +1,12 @@
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\bin\Debug\netcoreapp3.1\08_PetShop.exe
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\bin\Debug\netcoreapp3.1\08_PetShop.deps.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\bin\Debug\netcoreapp3.1\08_PetShop.runtimeconfig.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\bin\Debug\netcoreapp3.1\08_PetShop.runtimeconfig.dev.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\bin\Debug\netcoreapp3.1\08_PetShop.dll
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\bin\Debug\netcoreapp3.1\08_PetShop.pdb
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\obj\Debug\netcoreapp3.1\08_PetShop.AssemblyInfoInputs.cache
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\obj\Debug\netcoreapp3.1\08_PetShop.AssemblyInfo.cs
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\obj\Debug\netcoreapp3.1\08_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\obj\Debug\netcoreapp3.1\08_PetShop.dll
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\obj\Debug\netcoreapp3.1\08_PetShop.pdb
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\08_PetShop\obj\Debug\netcoreapp3.1\08_PetShop.genruntimeconfig.cache
