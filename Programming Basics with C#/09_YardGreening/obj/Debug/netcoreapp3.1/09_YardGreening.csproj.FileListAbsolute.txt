@@ -1,0 +1,12 @@
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\bin\Debug\netcoreapp3.1\09_YardGreening.exe
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\bin\Debug\netcoreapp3.1\09_YardGreening.deps.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\bin\Debug\netcoreapp3.1\09_YardGreening.runtimeconfig.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\bin\Debug\netcoreapp3.1\09_YardGreening.runtimeconfig.dev.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\bin\Debug\netcoreapp3.1\09_YardGreening.dll
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\bin\Debug\netcoreapp3.1\09_YardGreening.pdb
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\obj\Debug\netcoreapp3.1\09_YardGreening.AssemblyInfoInputs.cache
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\obj\Debug\netcoreapp3.1\09_YardGreening.AssemblyInfo.cs
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\obj\Debug\netcoreapp3.1\09_YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\obj\Debug\netcoreapp3.1\09_YardGreening.dll
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\obj\Debug\netcoreapp3.1\09_YardGreening.pdb
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\09_YardGreening\obj\Debug\netcoreapp3.1\09_YardGreening.genruntimeconfig.cache
