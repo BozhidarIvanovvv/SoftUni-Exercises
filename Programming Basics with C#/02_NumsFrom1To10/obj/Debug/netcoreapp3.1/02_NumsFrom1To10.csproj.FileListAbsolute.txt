@@ -1,0 +1,13 @@
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\bin\Debug\netcoreapp3.1\02_NumsFrom1To10.exe
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\bin\Debug\netcoreapp3.1\02_NumsFrom1To10.deps.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\bin\Debug\netcoreapp3.1\02_NumsFrom1To10.runtimeconfig.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\bin\Debug\netcoreapp3.1\02_NumsFrom1To10.runtimeconfig.dev.json
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\bin\Debug\netcoreapp3.1\02_NumsFrom1To10.dll
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\bin\Debug\netcoreapp3.1\02_NumsFrom1To10.pdb
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\obj\Debug\netcoreapp3.1\02_NumsFrom1To10.csprojAssemblyReference.cache
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\obj\Debug\netcoreapp3.1\02_NumsFrom1To10.AssemblyInfoInputs.cache
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\obj\Debug\netcoreapp3.1\02_NumsFrom1To10.AssemblyInfo.cs
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\obj\Debug\netcoreapp3.1\02_NumsFrom1To10.csproj.CoreCompileInputs.cache
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\obj\Debug\netcoreapp3.1\02_NumsFrom1To10.dll
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\obj\Debug\netcoreapp3.1\02_NumsFrom1To10.pdb
+C:\Users\bogid\source\repos\(PB)First Steps In Coding - Lab\02_NumsFrom1To10\obj\Debug\netcoreapp3.1\02_NumsFrom1To10.genruntimeconfig.cache
